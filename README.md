@@ -32,7 +32,7 @@ I build software close to the metal, focusing on **concurrency, parallelism, mem
 - 🔭 **Working on:** Low Level hardware, PLC programs, LLMs and RL
 - 🌱 **Learning:** Learning Ocaml and RL
 - 🎯 **Interests:** Systems programming.
-- 📫 **Reach me:** ericmwas01[at]gmail[.]com [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macharia-mwangi-394533216/) [![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?logo=x&logoColor=white)](https://twitter.com/KamwanaV) 
+- 📫 **Reach me & Follow me:** ericmwas01[at]gmail[.]com [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macharia-mwangi-394533216/) [![Twitter/X](https://img.shields.io/badge/-Twitter/X-000000?logo=x&logoColor=white)](https://twitter.com/KamwanaV) 
 
 ## Additional Projects 
 
